@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebBE", "WebBE\WebBE.csproj", "{2980B5E3-8285-4436-BD7F-D741A40ED30C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2980B5E3-8285-4436-BD7F-D741A40ED30C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2980B5E3-8285-4436-BD7F-D741A40ED30C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2980B5E3-8285-4436-BD7F-D741A40ED30C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2980B5E3-8285-4436-BD7F-D741A40ED30C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4809A617-C65D-4571-9201-2822DB717E57}
+	EndGlobalSection
+EndGlobal
